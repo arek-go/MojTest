@@ -1,0 +1,166 @@
+AI-900
+
+-Numeric predict - regression
+
+-category - classification
+
+-transparency helps the team understanding how artificial intelligence systems make decisions, why they produce specific results, and what data they're using
+
+-label represent the desired outcomes or predictions we want to mak
+
+-feature are the measurable characteristics or attributes of the data that help us make those predictions (atributes)
+
+-responsible ai contains accountability (Odpowiedzialność), inclusivness(fairness), reliablity and afety, fairness, transparency and privacy and security
+
+-Cognitive Services can be used to prediction and training, it support both com. vision for text extraction, and Text Analytics for text analysis
+
+-Clustering is an unsupervised machine learning method of identifying and grouping similar data points in larger datasets without concern for the specific outcome
+
+-object detection model predicts class label, probality and bounding box for each an object in the image
+
+-Read API better suited for larger images, it will not block your application whuile it is running
+
+-The encoder in a transformer architecture is responsible for processing the input sequence and generating a sequence of hidden representations that capture the contextual information of each token in the sequence
+
+-Sentiment analysis returns a numeric scored indicating how positive or negative the text is
+
+-QnA Maker to oparta na chmurze usługa przetwarzania języka naturalnego (NLP), która umożliwia tworzenie naturalnej warstwy konwersacyjnej na danych. Służy do znajdowania najbardziej odpowiedniej odpowiedzi na wszelkie dane wejściowe z niestandardowych baza wiedzy (KB) informacji.
+
+-Accountability defines the framework of governance and organizational principles, which are meant to ensure that AI solutions meet ethical and legal standards that are clearly defined.
+
+-The accountability principle states that AI systems are designed to meet any ethical and legal standards that are applicable
+
+-Multiple linear regression models the relationship between several features and a single label. The features must be independent of each other, otherwise, the model's predictions will be misleading.
+
+-A job must be created in Machine Learning studio to use Machine Learning to train a regression model. A workspace must be created before you can access Machine Learning studio.
+
+-Time-series forecasting, regression, and classification are supervised machine learning models. 
+
+-Linear regression is a machine learning algorithm module used for training regression models.
+
+-Tokenization is part of speech synthesis that involves breaking text into individual words such that each word can be assigned phonetic sounds
+
+-Named entity recognition can identify and categorize entities in unstructured text, such as people, places, organizations, and quantities, and is suitable to support the development of an article recommendation system. 
+
+-Entity Linking identifies and disambiguates the identity of entities found in a text.
+
+-Modern image classification solutions are based on deep learning techniques.
+
+-When categorizing an image, the Azure AI Vision service supports two specialized domain models: celebrities and landmarks.
+
+-OCR can extract printed or handwritten text from images. In this case, it can be used to extract text from scanned medical records to produce a digital archive from paper-based documents. Identifying wildlife in an image is an example of a computer vision solution that uses object detection and is not suitable for OCR. 
+
+-Tagging involves associating an image with metadata that summarizes the attributes of the image.
+
+-The invoice model extracts key information from sales invoices and is suitable for extracting information from sales account documents.
+
+-Face attributes are a set of features that can be detected by the Face Detect API. Attributes such as accessories (glasses, mask, headwear etc.) 
+
+-DALL-E is a model that can generate images from natural language.
+
+-The Model evaluation module outputs a confusion matrix showing the number of true positives, false negatives, false positives, and true negatives, as well as
+ROC, Precision/Recall, and Lift curves.
+
+-In machine learning and statistics, feature selection is the process of selecting a subset of relevant, useful features to use in building an analytical model. Feature selection helps narrow the field of data to the most valuable inputs. Narrowing the field of data helps reduce noise and improve training performance.
+
+-A dependent variable is what you measure in the experiment and what is affected during the experiment. The dependent variable responds to the independent variable. It is called dependent because it "depends" on the independent variable.
+
+-Image classification is part of computer vision and can be used to evaluate images from an X-ray machine to quickly classify specific bone fracture types.
+
+-agging involves associating an image with metadata that summarizes the attributes of the image.
+
+-Each phrase returned by an image description task of the Azure AI Vision includes the confidence score.
+
+-The business card model analyzes and extracts key information from business card images and includes common data field extractions, such as name and email. The invoice model extracts key information from sales invoices and includes common data fields used in invoices for extraction. The read model, layout model, and general document model do not identify and extract common data fields.
+
+-Face identification in the Azure AI Face service can address one-to-many matching of one face in an image to a set of faces in a secure repository. Face verification has the capability for one-to-one matching of a face in an image to a single face from a secure repository or a photo to verify whether they are the same individual. Face attributes, the find similar faces operation, and Azure AI Custom Vision do not verify the identity of a face.
+
+-Vectorization captures semantic relationships between words by assigning them to locations in n-dimensional space.
+
+-Multiple linear regression models a relationship between two or more features and a single label. Linear regression uses a single feature. Logistic regression is a type of classification model, which returns either a Boolean value or a categorical decision.\
+
+-Classification algorithms are used to predict a predefined category to which an input value belongs.
+
+-Classification is used to predict categories of data. It can predict which category or class an item of data belongs to. In this example, sentiment analysis can be carried out on the Twitter posts with a numeric value applied to the posts to identify and classify positive or negative sentiment.
+
+-Before you can start training a machine learning model, you must first create a pipeline in the Machine Learning designer.
+
+-Semantic segmentation provides the ability to classify individual pixels in an image depending on the object that they represent.
+
+-Transparency provides clarity regarding the purpose of AI solutions, the way they work, as well as their limitations.
+
+-The transparency principle states that AI systems must be designed in such a way that users are made fully aware of the purpose of the systems, how they work, and which limitations can be expected during use
+
+-The computer vision service eliminates the need for choosing, training, and evaluating a model by providing pre-trained models. To use computer vision, you must create an Azure resource. The use of computer vision involves inferencing.
+
+-The invoice model extracts key information from sales invoices and includes common data fields used in invoices for extraction.
+
+-Removing stop words is the first step in the statistical analysis of terms used in a text in the context of NLP. Counting the occurrences of each word takes place after stop words are removed. Creating a vectorized model is not part of statistical analysis. It is used to capture the sematic relationship between words. Encoding words as numeric features is not part of statistical analysis. It is frequently used in sentiment analysis.
+
+-Sentiment analysis provides sentiment labels, such as negative, neutral, and positive, based on a confidence score from text analysis.
+
+-Entity Linking identifies and disambiguates the identity of entities found in a text. Key phrase extraction is not used to extract entities and is used instead to extract key phrases to identify the main concepts in a text
+
+-Generative AI models offer the capability of generating images based on a prompt by using DALL-E models, such as generating images from natural language.
+
+-Embeddings is an Azure OpenAI model that converts text into numerical vectors for analysis. Embeddings can be used to search, classify, and compare sources of text for similarity.
+
+-‍An inference pipeline is a program that takes input data, optionally transforms that data, then makes predictions on that input data using a model. Inference pipelines can be either batch programs or online services.
+
+-Anomaly detection collects data to identify data
+
+-What is validation in machine learning?
+Definition. In machine learning, model validation is referred to as the process where a trained model is evaluated with a testing data set. The testing data set is a separate portion of the same data set from which the training set is derived.
+
+-Recall is a metric that measures how often a machine learning model correctly identifies positive instances (true positives) from all the actual positive samples in the dataset
+
+-Anomaly detection encompasses many important tasks in machine learning:
+Identifying transactions that are potentially fraudulent.
+Learning patterns that indicate that a network intrusion has occurred.
+Finding abnormal clusters of patients.
+Checking values entered into a system.
+
+-The Model evaluation module outputs a confusion matrix showing the number of true positives, false negatives, false positives, and true negatives, as well as
+
+-To perform real-time inferencing, you must deploy a pipeline as a real-time endpoint.
+Real-time endpoints must be deployed to an Azure Kubernetes Service cluster.
+
+-Image classification is a supervised learning problem: define a set of target classes (objects to identify in images), and train a model to recognize them using labeled example photos.
+
+-AI tagging is a machine learning process where algorithms recognize the content of unstructured data, assigning relevant metadata tags, markers, or labels making it searchable by key terms.
+
+- Computer Vision includes Optical Character Recognition (OCR) capabilities.
+
+-Speech recognition applications include voice user interfaces such as voice dialing (e.g. "call home"), call routing (e.g. "I would like to make a collect call"), domotic appliance control, search key words (e.g. find a podcast where particular words were spoken), simple data entry (e.g., entering a credit card number)
+
+-Speech synthesis has made significant strides thanks to the transition from machine learning to deep learning models. Contemporary text-to-speech
+
+-Azure Text to Speech is a Speech service feature that converts text to lifelike speech.
+
+-Content types include many standard structured documents such as PDF, DOC, and TXT.
+
+-Natural language processing (NLP) is used for tasks such as sentiment analysis, topic detection, language detection, key phrase extraction, and document categorization.
+
+-Computer Vision can determine whether an image contains adult content, find specific brands or objects, or find human faces.
+
+-Utterances are input from the user that your app needs to interpret.
+
+-The None intent is filled with utterances that are outside of your domain.
+
+-Key phrase extraction is one of the features offered by Azure Cognitive Service for Language,
+
+-Key phrase extraction is one of the features offered by Azure Cognitive Service for Language
+
+-Speech recognition, or speech-to-text, is the ability of a machine or program to identify words spoken aloud and convert them into readable text.
+
+-Data ingestion is the process of importing large, assorted data files from multiple sources into a single, cloud-based storage medium—a data warehouse, data mart or database—where it can be accessed and analyzed
+
+-Data summarization is the science and art of conveying information more effectivelly and efficiently.
+
+-The validation dataset is different from the test dataset that is held back from the training of the model.
+
+-The Model evaluation module outputs a confusion matrix showing the number of true positives, false negatives, false positives, and true negatives, as well as ROC, Precision/Recall, and Lift curves.
+
+-Data encryption converts data from a readable, plaintext format into an unreadable, encoded format: ciphertext.
+
+-
